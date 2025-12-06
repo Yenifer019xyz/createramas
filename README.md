@@ -1,2 +1,2 @@
 myfirstrepository
-Este es mi primero repositorio.
+Este es mi segundo repositorio
